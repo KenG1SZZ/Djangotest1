@@ -201,7 +201,7 @@ celerybeat-schedule
 ../../venv/
 ENV/
 
-# Spyder project settings
+# Spyder project settingsmaa
 .spyderproject
 .spyproject
 
